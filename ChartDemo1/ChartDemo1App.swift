@@ -11,7 +11,7 @@ import SwiftUI
 struct ChartDemo1App: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            TestColorButtonView()
         }
     }
 }
